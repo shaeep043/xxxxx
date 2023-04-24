@@ -999,7 +999,7 @@ exon.add_handler(SET_TITLE_HANDLER)
 exon.add_handler(ADMIN_REFRESH_HANDLER)
 exon.add_handler(ADMIN_CALLBACK_HANDLER)
 
-__mod_name__ = "𝐀ᴅᴍɪɴ"
+__mod_name__ = "𝙰ᴅᴍɪɴ"
 __command_list__ = [
     "adminlist",
     "admins",
